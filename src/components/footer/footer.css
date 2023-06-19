@@ -1,0 +1,4 @@
+.footer-gradient{
+    background: rgb(18,19,20);
+    background: linear-gradient(0deg, rgba(18,19,20,1) 25%, rgba(18,19,20,0.5478524173341212) 64%, rgba(18,19,20,0.0016339299391631146) 100%);
+}
